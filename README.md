@@ -15,7 +15,7 @@ React-based A React-based product search interface that allows users to search f
 
 - React 19
 - TypeScript
-- Material-UI (MUI) v6
+- Material-UI
 
 # Description
 

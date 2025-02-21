@@ -23,7 +23,7 @@ React-based A React-based product search interface that allows users to search f
 
 The `PruductSearch.tsx` component will be the main conatiner for the search page This component will handle all the funtionalities such as handling user input, API calls and displaying the results.  the overall structure will consist:
 
-- `<Header />` containing the input fieald and options
+- `<Header />` containing the input field and options
 - `<ProductCard />` the individual card for each result
 - `<Pagination />` to handle multiple pages
 
